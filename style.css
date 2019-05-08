@@ -170,8 +170,8 @@ a:active,a:hover:active{
     font-weight:600
 }
 footer{
-    background:#fff;
-    text-align:center
+    background: #000;
+    text-align:center;
 }
 footer .section{
     padding:20px 0;
